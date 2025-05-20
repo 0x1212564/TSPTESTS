@@ -1,0 +1,10 @@
+/.idea
+/.vscode
+/__pycache__
+/route_larger_2-opt_local_search.png
+/route_larger_genetic_algorithm.png
+/route_larger_nearest_neighbor.png
+/route_larger_simulated_annealing.png
+/tsp_benchmark_results.csv
+/tsp_benchmark_results.png
+/tsp_growth_rate.png
