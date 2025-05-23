@@ -1,46 +1,4 @@
-
-
-
-          
-I need to understand the project structure and functionality to create a comprehensive README.md. Let me examine the codebase to identify the main components, algorithms, and usage patterns.
-        
-            
-toolName: search_codebase
-            
-status: success
-          
-query: traveling salesman problem restaurant waiter route optimization
-          
-I need to examine the main algorithm file to understand the implementation details of the TSP algorithms used in this project.
-        
-            
-toolName: view_files
-            
-status: success
-          
-            
-filePath: /Users/tim000/Documents/TSPTESTS/tsp_algorithms.py
-          
-I need to see the rest of the tsp_algorithms.py file to understand all the implemented algorithms.
-        
-            
-toolName: view_files
-            
-status: success
-          
-            
-filePath: /Users/tim000/Documents/TSPTESTS/tsp_algorithms.py
-          
-I need to examine the main.py file to understand how the project is executed and what the main entry points are.
-        
-            
-toolName: view_files
-            
-status: success
-          
-            
-filePath: /Users/tim000/Documents/TSPTESTS/tsp_main.py
-          
+       
 # Restaurant Waiter Route Optimization
 
 This project implements and compares different algorithms for solving the Traveling Salesman Problem (TSP) in the context of restaurant waiters delivering food to tables. The goal is to find the optimal route for a waiter starting from the kitchen, visiting all tables exactly once, and returning to the kitchen while minimizing the total distance traveled.
