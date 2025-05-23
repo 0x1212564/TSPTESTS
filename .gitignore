@@ -8,3 +8,5 @@
 /tsp_benchmark_results.csv
 /tsp_benchmark_results.png
 /tsp_growth_rate.png
+.gitignore
+j
