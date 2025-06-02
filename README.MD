@@ -10,22 +10,6 @@ In a restaurant setting, a waiter needs to deliver food from the kitchen to mult
 - Each table is a vertex that must be visited exactly once
 - The objective is to minimize the total distance traveled
 
-## Features
-
-- Implementation of five different TSP algorithms
-- Comprehensive benchmarking system
-- Visualization of routes
-- Unit tests for algorithm validation
-- Restaurant datasets of varying sizes (from 6 to 100 tables)
-
-## Algorithms Implemented
-
-1. **Brute Force**: Examines all possible permutations to find the optimal solution (only practical for small instances)
-2. **Nearest Neighbor**: A greedy algorithm that always visits the closest unvisited vertex
-3. **2-opt Local Search**: Improves an initial solution by swapping edges to reduce total distance
-4. **Genetic Algorithm**: Uses evolutionary principles with selection, crossover, and mutation operations
-5. **Simulated Annealing**: A probabilistic technique that uses temperature-based acceptance criteria to escape local optima
-
 ## Project Structure
 
 - `tsp_algorithms.py`: Core implementations of all TSP algorithms
